@@ -1,6 +1,6 @@
 /******
 Variables and data types
-*/
+
 
 var firstName = 'John';
 console.log(firstName)
@@ -14,7 +14,11 @@ console.log(fullAge);
 var job;
 console.log(job)
 
+*/
 
 /**
  Variable mutation and type coercion
  */
+
+ var firstName = "John";
+ var age = 28;
