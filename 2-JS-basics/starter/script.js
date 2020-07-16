@@ -16,9 +16,9 @@ console.log(job)
 
 */
 
-/**
- Variable mutation and type coercion
- */
+
+//  Variable mutation and type coercion
+
 
  var firstName = "John";
  var age = 28;
